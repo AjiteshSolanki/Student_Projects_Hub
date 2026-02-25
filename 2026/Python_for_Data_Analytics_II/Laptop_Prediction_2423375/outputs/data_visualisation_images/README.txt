@@ -1,0 +1,10 @@
+Notebook: 2_Data_Visualisation.ipynb
+Exported images: 7
+
+01_price_distribution_histogram.png
+02_ram_vs_price_trend.png
+03_screen_size_vs_price_scatter.png
+04_price_by_laptop_type_boxplot.png
+05_top_companies_by_laptop_count.png
+06_model_results_diagnostics_grid.png
+07_qq_plot_and_feature_impact_diagnostics.png

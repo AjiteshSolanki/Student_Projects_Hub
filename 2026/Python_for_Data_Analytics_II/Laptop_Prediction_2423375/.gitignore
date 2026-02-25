@@ -1,0 +1,15 @@
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Frontend dependencies/build
+webapp/node_modules/
+webapp/dist/
+
+# Local environment files
+.env
+.venv/
+.venv-*/
