@@ -1,0 +1,9 @@
+Notebook: 4_Final_Report.ipynb
+Exported images: 6
+
+01_eda_price_distribution_histogram.png
+02_eda_price_distribution_boxplot.png
+03_eda_feature_correlation_heatmap.png
+04_eda_price_relationship_scatterplot.png
+05_model_test_predictions_and_errors.png
+06_model_evaluation_residual_diagnostics.png

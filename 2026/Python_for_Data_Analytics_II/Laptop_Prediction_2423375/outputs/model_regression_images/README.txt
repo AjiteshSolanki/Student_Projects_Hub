@@ -1,0 +1,6 @@
+Notebook: 3_Model_Regression.ipynb
+Exported images: 3
+
+01_cpu_brand_vs_price_barplot.png
+02_ram_vs_price_barplot.png
+03_model_diagnostics_predicted_actual_residual_qq.png
